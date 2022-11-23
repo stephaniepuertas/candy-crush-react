@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/candy-crush-react/static/css/main.bb80aa10.css",
+    "main.js": "/candy-crush-react/static/js/main.1cb32225.js",
+    "static/media/banana.jpg": "/candy-crush-react/static/media/banana.a71d4464b51f768996a7.jpg",
+    "static/media/pineapple.jpg": "/candy-crush-react/static/media/pineapple.27373d44ee683a8875b8.jpg",
+    "static/media/avocado.PNG": "/candy-crush-react/static/media/avocado.b8f900aa987d1e2eb7d4.PNG",
+    "static/media/apple.PNG": "/candy-crush-react/static/media/apple.3525dc6d5bdec8ec0de2.PNG",
+    "static/media/greenpear.jpg": "/candy-crush-react/static/media/greenpear.81b5e21398b065560b9c.jpg",
+    "static/media/pear.PNG": "/candy-crush-react/static/media/pear.ab2778d284ae85231867.PNG",
+    "static/media/blank.png": "/candy-crush-react/static/media/blank.05cd4830ed07c8a6d3ee.png",
+    "index.html": "/candy-crush-react/index.html",
+    "main.bb80aa10.css.map": "/candy-crush-react/static/css/main.bb80aa10.css.map",
+    "main.1cb32225.js.map": "/candy-crush-react/static/js/main.1cb32225.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb80aa10.css",
+    "static/js/main.1cb32225.js"
+  ]
+}
