@@ -9,10 +9,29 @@
   height: 560px ;
   display: flex;
   flex-wrap: wrap;
+  border: 31px solid #f0c0eb;
+  border-radius: 5px;
+  
 }
 
 /* any image in game board will be resized below*/
 .game img{
   width: 70px;
   height: 70px;
+}
+
+.score-board{
+  background-color: rgb(217, 229, 252);
+  width: 221px;
+  height: 186px;
+  text-align: center;
+  font-family: fantasy;
+  border: 17px solid #bdece0;
+  border-radius: 5px;
+}
+.title{
+  background-color:rgb(219, 253, 243);
+}
+.score{
+  background-color:rgb(245, 225, 206);
 }

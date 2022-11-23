@@ -5,7 +5,7 @@ import avocado from './images/avocado.PNG'
 import banana from './images/banana.jpg'
 import pear from './images/pear.PNG'
 import pineapple from './images/pineapple.jpg'
-import watermelon from './images/watermelon.PNG'
+import greenpear from './images/greenpear.jpg'
 import blank from './images/blank.png'
 
 
@@ -27,7 +27,7 @@ const candyColor = [
   banana,
   pear,
   pineapple,
-  watermelon
+  greenpear
 ]
 
 
