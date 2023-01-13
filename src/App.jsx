@@ -8,8 +8,6 @@ import pineapple from './images/pineapple.jpg'
 import greenpear from './images/greenpear.jpg'
 import blank from './images/blank.png'
 
-
-
 //how big you are gonna make your board
 const width = 8
 
